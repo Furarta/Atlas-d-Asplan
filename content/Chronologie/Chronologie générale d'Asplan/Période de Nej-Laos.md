@@ -11,7 +11,18 @@ En année référentielle depuis Eliéna, la période intercalaire de Nej-Laos c
 
 l'an 683 004 DE
 
+<div>
+<span style="float:left">
 
-**Période précédente                                                                                                   Période suivante**
+[[Période de Nej|← Période précédente]]
+
+</span>
+
+<span style="float:right">
+
+[[Période de Laos|Période suivante →]]
+
+</span>
+</div>
 
 ---

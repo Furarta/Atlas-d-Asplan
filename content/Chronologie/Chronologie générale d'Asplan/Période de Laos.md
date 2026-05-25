@@ -11,9 +11,12 @@ En année référentielle depuis Eliéna, la période de Laos couvrira :
 
 de l'an 683 005 à 684 042 DE
 
+<div>
+<span style="float:left">
 
-**[[Période de Nej-Laos|Période précédente]]                                                                                                   Période suivante**
+[[Période de Nej-Laos|← Période précédente]]
+
+</span>
+</div>
 
 ---
-
-
